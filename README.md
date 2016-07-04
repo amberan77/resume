@@ -1,2 +1,0 @@
-# amberfirstwebsite
-my first website
